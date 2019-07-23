@@ -19,7 +19,8 @@ Operation2: With input - 'I have a cat again' => the service returns
 I -- 2 , have -- 2 , a -- 2, cat -- 2, again -- 1
 
 Operation3: Returns nothing. Resets all counters
-Operation1: With input - 'I have a dog' =>  the service returns  
+
+Operation4: With input - 'I have a dog' =>  the service returns  
 I -- 1 ,  have -- 1 , a -- 1 , dog -- 1 
 
 
